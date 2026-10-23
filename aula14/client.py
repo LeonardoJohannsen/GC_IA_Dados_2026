@@ -22,6 +22,7 @@ def exibir_fruta(resposta):
     print("Nutrição:")
     print(f" • Açúcar: {nutricao.get('sugar')}g")
     print(f" • Proteínas: {nutricao.get('protein')}g")
+    print(f" • Calorias: {nutricao.get('calories')}g")
 
 def executar_exemplos():
     try:
