@@ -2,6 +2,8 @@
 
 Aplicação web desenvolvida em Python com Flask. A API permite consultar informações nutricionais de frutas utilizando o serviço externo [Fruityvice](https://www.fruityvice.com/), além de cadastrar, listar e atualizar sucos.
 
+Os outros arquivos exceto o new_server.py ultilizei apenas para aprendizado unico arquivo relevante para a entrega é o new_server.py
+
 ## Funcionalidades
 
 - Consultar uma fruta e obter seu nome, quantidade de calorias e açúcar.
